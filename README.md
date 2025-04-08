@@ -3,7 +3,7 @@
 
 # qNMR fluorine pollution analysis:   \newline perspectives on PFAS exposure characterization using ^19^F NMR
 
-*Laura Duciel, Julia Asencio Hernàndez, Jean-Philippe Starck, Marc-André Delsuc, Anne Briot-Dietsch^\*^*
+*Laura Duciel, Julia Asencio Hernàndez, Marc-André Delsuc, Anne Briot-Dietsch^\*^*
 
 **Corresponding author**   
 **Anne Briot-Dietsch**   
