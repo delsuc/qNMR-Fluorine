@@ -14,4 +14,6 @@ Supporting text
 Figs. S1 to S10
 Tables ST1 ST2
 
+The Quarto rendered file is in Supp-Info.pdf 
+
 Licence : [CreativeCommon CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) ![](https://licensebuttons.net/i/l/by-sa/ffffff/00/00/00/88x31.png) 
