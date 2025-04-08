@@ -1,0 +1,18 @@
+********************************************************************
+differences to (21/01/27)
+
+added                                   OPERA pulses for broadband excitation:
+                                           (length and RF-Field can be scaled linearly)
+
+                 OPERA-20               length 142 us, RF-Field 20kHz (90o hard pulse: 12.5 us)
+		                           chemical shift evolution for 0.45164*Tp
+                 OPERA-30               length 80 us, RF-Field 14kHz (90o hard pulse: 17.86 us)
+		                           chemical shift evolution for 0.19812*Tp
+		 OPERA-45               length 80 us, RF-Field 14kHz (90o hard pulse: 17.86 us)
+		                           chemical shift evolution for 0.19409*Tp
+		 OPERA-90               length 60 us, RF-Field 20kHz (90o hard pulse: 12.5 us)
+		                           chemical shift evolution for 0.15688*Tp
+
+					Ref.:
+		                        P. Coote, W. Bermel & H. Arthanari,
+					   J. Magn. Resom , - (2021
