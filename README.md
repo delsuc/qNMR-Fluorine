@@ -9,10 +9,6 @@
 **Anne Briot-Dietsch**   
 **E-mail: anne.briot-dietsch@casc4de.eu**
 
-### This PDF file includes:
-Supporting text   
-Figs. S1 to S10
-Tables ST1 ST2
 
 The Quarto rendered file is in Supp-Info.pdf 
 
